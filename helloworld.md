@@ -11,6 +11,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## R Markdown
 
+## This is a markdown file
+
 Although this is my first Rmarkdown file and i shouldnt sound arrogant but still this is lame.
 
 ```{r cars}
